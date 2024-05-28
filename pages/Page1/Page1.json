@@ -29,20 +29,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1_JSObject1.myFun1",
-              "name": "JSObject1.myFun1",
-              "collectionId": "Page1_JSObject1",
-              "clientSideExecution": true,
-              "confirmBeforeExecute": false,
-              "pluginType": "JS",
-              "jsonPathKeys": [
-                "function () {\n  return 2111;\n}"
-              ],
-              "timeoutInMillisecond": 10000
-            }
-          ],
-          [
-            {
               "id": "Page1_Select_public_users1",
               "name": "Select_public_users1",
               "confirmBeforeExecute": false,
